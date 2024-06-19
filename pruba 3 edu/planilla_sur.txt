@@ -1,0 +1,6 @@
+Nombre y apellido del cliente Nombre
+Direcci�n del cliente Direcci�n
+Sector del envio Sector
+Cantidad de pedidos Cantidadpedido
+Detalles del pedido DetallePedido
+
